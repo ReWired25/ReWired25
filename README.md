@@ -26,13 +26,13 @@ I'm Nikita
 
 ---
 
-Projects:
+Some completed projects:
 
 **In a team**  
 * [Project Management App](https://project-kanban.netlify.app/) **|** [PR with description in repo](https://github.com/Verbena336/project-management-app/pull/44)
 * [Eyes Up](https://eyesup.netlify.app) **|** [Repo](https://github.com/oxanacode/Eyes-up/tree/develop)
 
-Some main
+Main
 * [Modular React App](https://react-tasks-rss.netlify.app/)
 * [CPU Store](https://rewired25.github.io/RSS-main-stages/online-store/)
 * [Async Race](https://rewired25.github.io/RSS-main-stages/async-race/) **|** [_need a mock server_](https://github.com/mikhama/async-race-api) | [Repo](https://github.com/ReWired25/RSS-main-stages/tree/async-race)
