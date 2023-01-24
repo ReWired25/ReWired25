@@ -37,7 +37,7 @@ Some completed projects:
 Main
 * [Modular React App](https://react-tasks-rss.netlify.app/)
 * [CPU Store](https://rewired25.github.io/RSS-main-stages/online-store/)
-* [Async Race](https://rewired25.github.io/RSS-main-stages/async-race/) **|** [_need a mock server_](https://github.com/mikhama/async-race-api) | [Repo](https://github.com/ReWired25/RSS-main-stages/tree/async-race)
+* [Async Race](https://rewired25.github.io/RSS-main-stages/async-race/)
 * [News API App](https://rewired25.github.io/RSS-main-stages/migration-newip-to-ts/)
 * [Virtual Keyboard](https://rewired25.github.io/virtual-keyboard/)
 * [Shelter For Pets](https://rewired25.github.io/RSS-main-stages/shelter/pages/main/)
@@ -51,9 +51,7 @@ Node JS
 
 <!--
 **ReWired25/ReWired25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
