@@ -2,7 +2,7 @@
 I'm Nikita  
 **Front-end** developer
 
-[**My CV**](https://rewired25.github.io/rsschool-cv/) with info about me, **projects** descriptions and **contacts**
+[**My CV**](https://rewired-cv.netlify.app/) with info about me, **projects** descriptions and **contacts**
 
 [![Codeward](https://www.codewars.com/users/ReWired25/badges/small)](https://www.codewars.com/users/ReWired25)
 
