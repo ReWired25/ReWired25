@@ -1,6 +1,6 @@
 ### Hi there and welcome 👋
 I'm Nikita  
-**Front-end** developer
+**Frontend** developer
 
 [**My CV**](https://rewired-cv.netlify.app/) with info about me, **projects** descriptions and **contacts**
 
